@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(17, 16, 22);
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 89vh;
+}
+#input{
+    font-size: 22px;
+    border-radius: 5px;
+    background-color: rgb(86, 92, 129);
+    border: 0;
+    color: white;
+    outline: 0;
+    padding: 5px 15px;
+    
+}
+.show {
+    color: white;
+}
